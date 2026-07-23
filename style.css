@@ -358,3 +358,20 @@ div.gallery-item .desc {
   display: table;
   clear: both;
 }
+
+iframe {
+  /* Dimensions */
+  width: 100%;
+  height: 500px;
+  
+  /* Layout reset */
+  display: block;
+  border: none;
+  
+  /* Modern aesthetics */
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  
+  /* Performance optimization */
+  content-visibility: auto;
+}
