@@ -363,7 +363,10 @@ iframe {
   width: 100%;
   height: 500px;
   position: fixed;
-  margin: auto;
+  margin-top: 20px;
+  margin-right: 15px;
+  margin-bottom: 20px;
+  margin-left: 15px;
   display: block;
   border: none;
   content-visibility: visible;
