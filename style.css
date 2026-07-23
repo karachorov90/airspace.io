@@ -366,5 +366,5 @@ iframe {
   margin: auto;
   display: block;
   border: none;
-  content-visibility: auto;
+  content-visibility: visible;
 }
